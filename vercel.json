@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "main.py": { "maxDuration": 60, "includeFiles": "static/**" }
-  },
-  "crons": [{ "path": "/api/cron/daily", "schedule": "0 3 * * *" }]
-}
